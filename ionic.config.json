@@ -1,0 +1,8 @@
+{
+  "name": "clinic_v1",
+  "app_id": "ba38781e",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
